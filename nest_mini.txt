@@ -1,0 +1,35 @@
+
+Google Nest Mini 2nd Generation is a smart speaker that can be controlled with voice commands
+https://deeperbrain.com/google/google_mini2.mp4
+
+System Firmware: 375114
+Cast firmware: 2.57.375114
+Language: en-US
+Speakers
+Google Assistant built in
+360-degree sound with 40 mm driver
+Mics
+3 far-field microphones
+Voice Match technology
+Quad-core 64-bit ARM CPU 1.4 GHz
+High-performance ML hardware engine
+
+Nest Hub 7” Smart Display with Google Assistant (2nd Gen) 
+
+https://deeperbrain.com/google/google_photo2.mp4
+
+System Firmware: 11.20230306.3.135
+Cast firmware: 1.69.362882
+Language: en-US
+
+Quad-core 64-bit 1.9 GHz ARM CPU
+High-performance ML hardware engine
+Speaker
+Full-range speaker with 1.7 in (43.5 mm) driver
+Mics
+3 far-field microphones
+Mic off switch
+Technology
+Google Assistant built in
+Voice Match technology
+Ultrasound sensing
